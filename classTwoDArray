@@ -1,5 +1,8 @@
 class TwoDArray {
 	public static void main(String args[]) {
+	
+		//1. Объявление переменной массива int twoD[][]
+		//2. Резервируем память для массива =new int [4][5]
 		int twoD[][]=new int[4][5];
 		int i, j, k = 0;
 		
